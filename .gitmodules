@@ -1,0 +1,6 @@
+[submodule "randomly-generation-of-diagnosable-dfa"]
+	path = randomly-generation-of-diagnosable-dfa
+	url = https://github.com/rovo98/randomly-generation-of-diagnosable-dfa
+[submodule "model-unkown-dfa-diagnosis-based-on-running-logs"]
+	path = model-unkown-dfa-diagnosis-based-on-running-logs
+	url = https://github.com/rovo98/model-unkown-dfa-diagnosis-based-on-running-logs
