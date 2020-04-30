@@ -1,4 +1,4 @@
-# Data-Driven Fault Diagnosis in Unknown Discrete Event System
+# Data-Driven Fault Diagnosis in Unknown Model Discrete Event System
 
 For a DES (modeling by complete Deterministic Finite State Automata), its model is unknown, but running logs are available. 
 
