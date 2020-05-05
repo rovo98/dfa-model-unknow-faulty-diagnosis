@@ -1,2 +1,4 @@
 generated-logs/
-*.pdf
+README_java.pdf
+README_py.pdf
+README_py_data-preprocessing.pdf
