@@ -33,3 +33,5 @@ Using DeepLearning approach to do fault diagnosis based on the given running log
 25. Yosinski J, Clune J, Bengio Y, et al. How transferable are features in deep neural networks?[C]. In Advances in neural information processing systems. 2014: 3320-3328.
 26. Bengio Y. Practical recommendations for gradient-based training of deep architectures[M]. Neural networks: Tricks of the trade. Springer, Berlin, Heidelberg, 2012: 437-478.
 27. Masters D, Luschi C. Revisiting small batch training for deep neural networks[J]. arXiv preprint arXiv:1804.07612, 2018.
+28. Kingma D P, Ba J. Adam: A method for stochastic optimization[J]. arXiv preprint arXiv:1412.6980, 2014.
+29. Ruder S. An overview of gradient descent optimization algorithms[J]. arXiv preprint arXiv:1609.04747, 2016.
